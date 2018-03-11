@@ -1,0 +1,846 @@
+@media only screen and (max-width: 100%) {
+	/*For mobile phones: */
+	header {
+		width: 96%;
+	}
+}
+
+@media only screen and (max-width: 100%;) {
+	/*For mobile phones: */
+	#section2 {
+       
+         width: 96%;
+
+	}
+}
+
+@media only screen and (max-width: 100%;) {
+/*For mobile phones: */
+	.orta {
+        width:96%;
+
+
+	}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+     .architects {
+        width:0px;
+        margin-left: 21%;
+        position: absolute;
+        left: 24%;
+
+
+	}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+     .orta {
+        padding: 8px 16px;
+   /*    margin-left: 15%;*/
+        position: absolute;
+        margin-right: 5px;
+        right: 58%;
+
+
+	}
+}
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+        .architects {
+        width:0px;
+        margin-left: 21%;
+        position: absolute;
+        left: 25%;
+
+
+	}
+
+}
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+        .orta {
+       padding: 8px 16px;
+   /*     margin-left: 15%;*/
+        position: absolute;
+        margin-right: 5px;
+        right: 56%;
+
+
+	}
+
+}
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+        header ul {
+        position: absolute;
+      left: 53%;
+        width: 100%;    
+
+	}
+
+}
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+     header ul {      
+      margin-right: 5px;
+      right: 42%;
+      position: absolute;      
+	}
+}
+
+
+
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+       #section3 {
+          position: relative;
+          margin-top: -140px;
+
+	}
+
+}
+
+
+@media only screen and (max-width: 812px) {
+	/*For mobile phones: */
+	   #section3 {
+          position: relative;
+       width: 83%;
+         margin-top: -500px;
+
+	}
+}
+
+@media only screen and (max-width: 812px) {
+	/*For mobile phones: */
+   #section3 .sekil{
+    position: relative;
+    left: 2%;
+   }
+  #section3 .projects{
+      position: relative;
+      left: 3%;
+      width: 86%;
+  
+    }
+   
+	   #section3 .sekil ul {
+         position: relative;
+         width: 95%;
+	}
+
+	 #section3 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 95%;
+         display: block;
+         padding: 10px;
+
+	 }
+	  #section3 .sekil ul li:nth-child(2){
+         position: relative;
+       
+         display: block;
+         padding: 10px;
+          width: 95%;
+
+	 }
+	  #section3 .sekil ul li:nth-child(3){
+         position: relative;
+        width: 95%;
+         display: block;
+         padding: 10px;
+
+	 }
+	  #section3 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 95%;
+         display: block;
+         padding: 10px;
+
+	 }
+	  #section3 .sekil ul li .imgsoz{
+	  	position: absolute;	
+	    margin-top: 10px;
+	    
+	  }
+
+}
+
+
+@media only screen and (max-width: 414px) {
+	/*For mobile phones: */
+	   #section3 .sekil {
+
+          display: block;
+	}
+}
+
+
+@media only screen and (max-width: 100%) {
+	/*For mobile phones: */
+
+	  #section3 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 200px;
+         display: block;
+       
+
+         
+	 }
+	   #section3 .sekil ul li:nth-child(2){
+         position: relative;
+        width:200px;
+         display: block;
+      
+         
+	 }
+	   #section3 .sekil ul li:nth-child(3){
+         position: relative;
+        width:200px;
+         display: block;
+   
+         
+	 }
+	   #section3 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 200px;
+         display: block;
+
+         
+	 }
+
+}
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1023px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+  	
+
+
+  	   #section3 {
+          position: relative;
+       width: 100%;
+       margin-top:-40%;
+    
+
+	}
+
+
+        #section3 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 48%;
+        display: inline-block;
+         
+         
+	 }
+	   #section3 .sekil ul li:nth-child(2){
+         position: relative;
+        width:48%;
+        display: inline-block;
+         
+         
+	 }
+	   #section3 .sekil ul li:nth-child(3){
+         position: relative;
+        width:48%;
+        display: inline-block;
+         
+         
+	 }
+	   #section3 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 48%;
+        display: inline-block;
+         
+         
+	 }
+}
+
+
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+     #section3 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 230px;
+         
+         
+	 }
+	   #section3 .sekil ul li:nth-child(2){
+         position: relative;
+        width:230px;
+         
+         
+	 }
+	   #section3 .sekil ul li:nth-child(3){
+         position: relative;
+        width:230px;
+         
+         
+	 }
+	   #section3 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 230px;
+         
+         
+	 }
+}
+
+
+
+
+header{
+	height: 60px;
+	width: 1349px;
+	font-size: 24px;
+	background-color: white;
+	position: fixed;
+	z-index: 2;
+}
+header span{
+	letter-spacing: 2px;
+	/*line-height: 60px;*/
+	margin-left: 2%;
+	margin-top: 5px;
+	float: left;
+    padding: 10px 0px 0px 0;
+
+}
+header span:hover{
+	background-color: #CCCCCC;
+    display: block;
+/*    padding:2px;*/
+	box-sizing: border-box;
+
+}
+header ul{
+	float: right;
+	margin-right: 1%;
+
+}
+header ul li{
+	display: inline-block;
+	
+}
+header ul li a{
+	color: black;
+/*	line-height: 60px;*/
+	font-size: 20px;
+/*	padding:12px;*/
+/*	box-sizing: border-box;*/
+    letter-spacing: 2px;
+
+    padding: 18px 15px 18px 0;
+    display: block;
+}
+header ul li a:hover{
+	 /*  padding: 5px;*/
+	   box-sizing: border-box;
+	   background-color: #CCCCCC;
+		text-decoration: none;
+
+}
+
+
+#section2{
+	height: 720px;
+	background: url(../image/architect.jpg) no-repeat;
+	background-size: cover;
+	background-size:100%;
+	background-position: top;
+	width: 100%;
+
+}
+.orta{
+	padding: 8px 16px;
+	box-sizing: border-box;
+	background-color: rgba(0, 0, 0, 0.7);
+/*opacity: 0.75;*/
+	position: absolute;
+	text-align: center;
+	font-size: 2.8em;
+	  color: #E4E6E7;
+	letter-spacing: 3px;
+	    margin-left: 38%;
+	    margin-top: 25%;
+}
+.architects{
+	 	position: absolute;
+	    color: #EAECED;
+	    font-size: 2.7em;
+	    letter-spacing: 4px;
+	    margin-top: 26%;
+	    right: 520px;
+}
+
+
+#section3{
+	height:610px;
+	width: 100%;
+/*	background-color: lightgreen;*/
+
+top:20px;
+  height:auto;
+/*margin-top: -21px;*/
+}
+.projects h3{
+	padding: 7px;
+	padding-left: 0px;
+	margin-top: 40px;
+
+}
+ .projects{
+  margin-left: 2%;
+  border-bottom: 1px solid #F1F1F1;
+  width: 95%;
+}
+.sekil{
+   height: auto;
+   width: 96%;
+    margin-left: 2%;
+    margin-top: 3%;
+
+}
+.sekil ul li{
+	display: inline-block;
+	height: auto;
+	width: 24%;
+    margin-left: 10px;
+    position: relative;
+}
+.sekil ul li img{
+	width: 100%;
+
+}
+
+
+.imgsoz{
+	position: absolute;
+	color: white;
+	top:0px;
+	display: block;
+	width: auto;
+	height: 40px;
+	padding: 4px;
+	padding-right: 15px;
+	padding-left: 15px;
+	line-height: 30px;
+
+	font-size: 18px;
+	font: tahoma;
+	background-color: rgb(0,0,0);
+	
+}
+#section4{
+  height:670px;
+  width: 100%;
+  position: relative;
+  margin-top: 4%;
+
+  
+}
+#section4 .aboutP{
+  margin-right: 40px;
+  margin-left: 25px;
+  line-height: 22px;
+  font-size: 20px;
+ margin-top: 2%;
+}
+
+ #section4 .sekil ul li span:nth-child(3){
+   font-size: 15px;
+   color: gray;
+
+ }
+  #section4 .sekil ul li span:nth-child(6){
+   font-size: 18px;
+ }
+
+  #section4 .sekil ul li button{
+   font-size: 14px;
+   background-color: #F1F1F1;
+   border: none;
+  width: 100%;
+   height: 40px;
+   margin-top: 5%;
+   text-align: center;
+   font-size: 18px;
+ }
+
+ .reng{
+  -webkit-filter:grayscale(100%);
+  filter: grayscale(80%);
+ }
+ 
+
+@media only screen and (max-width: 414px) {
+  /*For mobile phones: */
+     #section4 .sekil {
+
+          display: block;
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  /*For mobile phones: */
+   
+    #section4 .sekil {
+   position: relative;
+   left: 2%;
+         }
+     #section4 .sekil ul {
+         position: relative;
+         width: 92%;
+ 
+  }
+      #section4 .sekil ul li {
+         position: relative;
+        left: 2%;
+ 
+  }
+    #section4 .projects{
+      position: relative;
+      left: 8%;
+      width: 80%;
+    }
+     #section4 .aboutP{
+      position: relative;
+      left: 4%;
+      width: 80%;
+    }
+
+   #section4 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 92%;
+         display: block;
+         padding: 10px;
+   }
+    #section4 .sekil ul li:nth-child(2){
+         position: relative; 
+         display: block;
+         padding: 10px;
+          width: 92%;
+        }
+    #section4 .sekil ul li:nth-child(3){
+         position: relative;
+        width: 92%;
+         display: block;
+         padding: 10px;     
+   }
+    #section4 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 92%;
+         display: block;
+         padding: 10px;
+   }
+}
+
+@media only screen and (max-width: 100%) {
+  /*For mobile phones: */
+    #section4 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 200px;
+         display: block;
+         
+   }
+     #section4 .sekil ul li:nth-child(2){
+         position: relative;
+        width:200px;
+         display: block;
+         
+   }
+     #section4 .sekil ul li:nth-child(3){
+         position: relative;
+        width:200px;
+         display: block;
+         
+   }
+     #section4 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 200px;
+         display: block;
+         
+   }
+
+}
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1023px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+         #section4 .projects{
+        position: relative;
+        left: 6%;
+        }
+
+
+        #section4 .aboutP{
+         width: 87%;
+         text-align: justify;
+        }
+
+
+       #section4 {
+          position: relative;
+       width: 100%;
+       margin-top:14%;
+    
+
+  }
+
+      #section4 .sekil ul li img{
+        width: 100%;
+      }
+
+        #section4 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 48%;
+        display: inline-block;
+         
+         
+   }
+     #section4 .sekil ul li:nth-child(2){
+         position: relative;
+        width:48%;
+        display: inline-block;
+         
+         
+   }
+     #section4 .sekil ul li:nth-child(3){
+         position: relative;
+        width:48%;
+        display: inline-block;
+         
+         
+   }
+     #section4 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 48%;
+        display: inline-block;
+         
+         
+   }
+}
+
+
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+     #section4 .sekil ul li:nth-child(1){
+         position: relative;
+        width: 230px;
+         
+         
+   }
+     #section4 .sekil ul li:nth-child(2){
+         position: relative;
+        width:230px;
+         
+         
+   }
+     #section4 .sekil ul li:nth-child(3){
+         position: relative;
+        width:230px;
+         
+         
+   }
+     #section4 .sekil ul li:nth-child(4){
+         position: relative;
+        width: 230px;
+         
+         
+   }
+}
+
+
+
+#section5{
+  height: 400px;
+  width: 100%;
+  position: relative;
+  margin-top: 2%;
+}
+
+
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+       #section5 {
+          position: relative;
+          margin-top: 50px;
+
+  }
+
+}
+
+
+@media only screen and (max-width: 812px) {
+  /*For mobile phones: */
+     #section5 {
+          position: relative;
+       width: 100%;
+         margin-top: 1600px;
+
+  }
+}
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1023px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+    
+
+     #section5 {
+          position: relative;
+       width: 100%;
+       margin-top:75%; 
+  }
+}
+
+#section5 form input{
+  margin-top: 1%;
+  width: 95%;
+   border:none;
+   border-bottom: 1px solid #F1F1F1;
+  height: 42px;
+  margin-left: 2%;
+  padding-left: 7px;
+  box-sizing: border-box;
+  font-size: 17px;
+   
+}
+#section5  button{
+  margin-top: 2%;
+  height: 40px;
+  width: 180px;
+  border:none;
+  background-color: #000000;
+  color: white;
+  font-size: 17px;
+    margin-left: 2%;
+  
+}
+#section5 button:hover{
+  background-color: #F1F1F1;
+}
+
+#section5  p{
+  font-size: 16px;
+  margin-left: 2%;
+  margin-top: 1.2%;
+}
+
+
+@media only screen and (max-width: 812px) {
+  /*For mobile phones: */
+   
+    #section5 form input {
+   position: relative;
+         width: 78%;
+         left: 7%;
+         }
+     #section5 button {
+         position: relative;
+         width: 45%;
+         left: 7%;
+         margin-top:4%;
+ 
+  }
+    #section5 .projects {
+   position: relative;
+         width: 78%;
+         left: 7%;
+         }
+     #section5 p {
+         position: relative;
+         width: 78%;
+         left: 7%;
+ 
+  }
+   
+  }
+
+
+  @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1023px)
+and (-webkit-min-device-pixel-ratio: 2) {
+     /* Place iPad 3 Styles Here */
+    
+
+     #section5 button{
+          position: relative;
+       width: 25%;
+     
+  }
+}
+
+
+ 
+#map{
+  margin-top: 4%;
+ 
+
+
+}
+
+.mapreng{
+  -webkit-filter:grayscale(100%);
+  filter: grayscale(70%);
+ }
+
+
+#section6{
+  height: 90px;
+  width: 100%;
+  background-color: black;
+
+}
+#section6 p{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 38px;
+}
